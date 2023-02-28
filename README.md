@@ -18,7 +18,7 @@ Live demo [E-Shop](https://e-shop-api-1ema.onrender.com)
 
 # Key Features
 
-1. Authentication
+## 1. Authentication
 
 -  Signup(Public)
 
@@ -47,7 +47,7 @@ Live demo [E-Shop](https://e-shop-api-1ema.onrender.com)
    -  Change new password and save
    -  Create token using jwt
 
-2. Authorization
+## 2. Authorization
 
 -  Check Login
 
@@ -60,7 +60,7 @@ Live demo [E-Shop](https://e-shop-api-1ema.onrender.com)
 
    -  Compare roles and req.user.role
 
-3. User
+## 3. User
 
 -  Admin
 
