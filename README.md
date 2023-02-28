@@ -11,6 +11,11 @@ Live demo [E-Shop](https://e-shop-api-1ema.onrender.com)
 -  npm install
 -  create .env file and create content PORT, NODE_ENV, DB_URL, BASE_URL, JWT_SECRET_KEY, JWT_EXPIRE_TIME, EMAIL_HOST, EMAIL_PORT, EMAIL_USER, EMAIL_PASSWORD
 
+# Run Project
+
+-  npm start with product
+-  npm run start:dev with development
+
 # Key Features
 
 1. Authentication
@@ -57,4 +62,21 @@ Live demo [E-Shop](https://e-shop-api-1ema.onrender.com)
 
 3. User
 
--
+-  Admin
+
+   -  Create user
+   -  Get users
+   -  Get user
+   -  Update user
+   -  Delete user
+   -  Change user password
+
+-  User
+
+   -  Get logged user
+
+      -  Compate req.params.id and req.user.\_id
+
+   -  Update logged user data
+   -  Update logged user password
+   -  Delete logged user data
