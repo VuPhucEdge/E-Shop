@@ -27,7 +27,7 @@ router
       subCategoryValidator.getSubCategoryValidator,
       subCategoryService.getSubCategory
    )
-   .put(
+   .patch(
       authService.protect,
       authService.allowedTo("admin", "manager"),
       subCategoryValidator.updateSubCategoryValidator,

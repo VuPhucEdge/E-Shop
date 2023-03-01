@@ -26,7 +26,7 @@ router
 router
    .route("/:id")
    .get(productValidator.getProductValidator, productService.getProduct)
-   .put(
+   .patch(
       authService.protect,
       authService.allowedTo("admin", "manager"),
       productService.uploadProductImages,

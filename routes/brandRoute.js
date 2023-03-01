@@ -20,7 +20,7 @@ router
 router
    .route("/:id")
    .get(brandValidator.getBrandValidator, brandService.getBrand)
-   .put(
+   .patch(
       authService.protect,
       authService.allowedTo("admin", "manager"),
       brandService.uploadBrandImage,

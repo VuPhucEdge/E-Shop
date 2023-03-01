@@ -19,7 +19,7 @@ router
 router
    .route("/:id")
    .get(reviewValidator.getReviewValidator, reviewService.getReview)
-   .put(
+   .patch(
       authService.protect,
       authService.allowedTo("user"),
       reviewValidator.updateReviewValidator,

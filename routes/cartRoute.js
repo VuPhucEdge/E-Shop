@@ -16,7 +16,7 @@ router.put("/applyCoupon", cartService.applyCoupon);
 
 router
    .route("/:itemId")
-   .put(cartService.updateCartItemQuantity)
+   .patch(cartService.updateCartItemQuantity)
    .delete(cartService.removeSpecificCartItem);
 
 module.exports = router;

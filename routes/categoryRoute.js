@@ -9,7 +9,7 @@ const subcategoriesRoute = require("./subCategoryRoute");
 const router = express.Router();
 
 // Nested route
-router.use("/:categoryId/subcategories", subcategoriesRoute);
+router.use("/:categoryId/sub-categories", subcategoriesRoute);
 
 router
    .route("/")
@@ -25,7 +25,7 @@ router
 router
    .route("/:id")
    .get(categoryValidator.getCategoryValidator, categoryService.getCategory)
-   .put(
+   .patch(
       authService.protect,
       authService.allowedTo("admin", "manager"),
       categoryService.uploadCategoryImage,

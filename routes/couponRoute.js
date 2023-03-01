@@ -14,7 +14,7 @@ router
 router
    .route("/:id")
    .get(couponService.getCoupon)
-   .put(couponService.updateCoupon)
+   .patch(couponService.updateCoupon)
    .delete(couponService.deleteCoupon);
 
 module.exports = router;

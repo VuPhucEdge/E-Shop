@@ -9,8 +9,8 @@ const router = express.Router();
 router.use(authService.protect);
 
 router.get("/getMe", userService.getLoggedUserData, userService.getUser);
-router.put("/changeMyPassword", userService.updateLoggedUserPassword);
-router.put(
+router.patch("/changeMyPassword", userService.updateLoggedUserPassword);
+router.patch(
    "/updateMe",
    userValidator.updateLoggedUserValidator,
    userService.updateLoggedUserData
@@ -19,8 +19,8 @@ router.delete("/deleteMe", userService.deleteLoggedUserData);
 
 // Admin
 router.use(authService.allowedTo("admin", "manager"));
-router.put(
-   "/changePassword/:id",
+router.patch(
+   "/changeUserPassword/:id",
    userValidator.changeUserPasswordValidator,
    userService.changeUserPassword
 );
@@ -36,7 +36,7 @@ router
 router
    .route("/:id")
    .get(userValidator.getUserValidator, userService.getUser)
-   .put(
+   .patch(
       userService.uploadUserImage,
       userService.resizeImage,
       userValidator.updateUserValidator,

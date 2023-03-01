@@ -24,12 +24,12 @@ router.get(
 );
 router.get("/:id", orderService.findSpecificOrder);
 
-router.put(
+router.patch(
    "/:id/pay",
    authService.allowedTo("admin", "manager"),
    orderService.updateOrderToPaid
 );
-router.put(
+router.patch(
    "/:id/deliver",
    authService.allowedTo("admin", "manager"),
    orderService.updateOrderToDelivered
