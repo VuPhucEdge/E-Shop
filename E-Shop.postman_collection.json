@@ -47,9 +47,9 @@
 							}
 						},
 						"url": {
-							"raw": "{{URL}}/categories",
+							"raw": "https://e-shop-api-1ema.onrender.com/categories",
 							"host": [
-								"{{URL}}"
+								"https://e-shop-api-1ema.onrender.com"
 							],
 							"path": [
 								"categories"
@@ -64,9 +64,9 @@
 						"method": "GET",
 						"header": [],
 						"url": {
-							"raw": "{{URL}}/categories",
+							"raw": "https://e-shop-api-1ema.onrender.com/categories",
 							"host": [
-								"{{URL}}"
+								"https://e-shop-api-1ema.onrender.com"
 							],
 							"path": [
 								"categories"
@@ -81,9 +81,9 @@
 						"method": "GET",
 						"header": [],
 						"url": {
-							"raw": "{{URL}}/categories/63fec55669033497749b4a1b",
+							"raw": "https://e-shop-api-1ema.onrender.com/categories/63fec55669033497749b4a1b",
 							"host": [
-								"{{URL}}"
+								"https://e-shop-api-1ema.onrender.com"
 							],
 							"path": [
 								"categories",
@@ -124,9 +124,9 @@
 							]
 						},
 						"url": {
-							"raw": "{{URL}}/categories/63fec55669033497749b4a1b",
+							"raw": "https://e-shop-api-1ema.onrender.com/categories/63fec55669033497749b4a1b",
 							"host": [
-								"{{URL}}"
+								"https://e-shop-api-1ema.onrender.com"
 							],
 							"path": [
 								"categories",
@@ -152,9 +152,9 @@
 						"method": "DELETE",
 						"header": [],
 						"url": {
-							"raw": "{{URL}}/categories/63fec56769033497749b4a27",
+							"raw": "https://e-shop-api-1ema.onrender.com/categories/63fec56769033497749b4a27",
 							"host": [
-								"{{URL}}"
+								"https://e-shop-api-1ema.onrender.com"
 							],
 							"path": [
 								"categories",
@@ -194,9 +194,9 @@
 							}
 						},
 						"url": {
-							"raw": "{{URL}}/sub-categories",
+							"raw": "https://e-shop-api-1ema.onrender.com/sub-categories",
 							"host": [
-								"{{URL}}"
+								"https://e-shop-api-1ema.onrender.com"
 							],
 							"path": [
 								"sub-categories"
@@ -211,9 +211,9 @@
 						"method": "GET",
 						"header": [],
 						"url": {
-							"raw": "{{URL}}/sub-categories",
+							"raw": "https://e-shop-api-1ema.onrender.com/sub-categories",
 							"host": [
-								"{{URL}}"
+								"https://e-shop-api-1ema.onrender.com"
 							],
 							"path": [
 								"sub-categories"
@@ -228,9 +228,9 @@
 						"method": "GET",
 						"header": [],
 						"url": {
-							"raw": "{{URL}}/sub-categories/63fec6d603ac503313ecda5a",
+							"raw": "https://e-shop-api-1ema.onrender.com/sub-categories/63fec6d603ac503313ecda5a",
 							"host": [
-								"{{URL}}"
+								"https://e-shop-api-1ema.onrender.com"
 							],
 							"path": [
 								"sub-categories",
@@ -265,9 +265,9 @@
 							}
 						},
 						"url": {
-							"raw": "{{URL}}/sub-categories/63fec6d603ac503313ecda5a",
+							"raw": "https://e-shop-api-1ema.onrender.com/sub-categories/63fec6d603ac503313ecda5a",
 							"host": [
-								"{{URL}}"
+								"https://e-shop-api-1ema.onrender.com"
 							],
 							"path": [
 								"sub-categories",
@@ -293,9 +293,9 @@
 						"method": "DELETE",
 						"header": [],
 						"url": {
-							"raw": "{{URL}}/sub-categories/63fec6e603ac503313ecda60",
+							"raw": "https://e-shop-api-1ema.onrender.com/sub-categories/63fec6e603ac503313ecda60",
 							"host": [
-								"{{URL}}"
+								"https://e-shop-api-1ema.onrender.com"
 							],
 							"path": [
 								"sub-categories",
@@ -316,9 +316,9 @@
 						"method": "GET",
 						"header": [],
 						"url": {
-							"raw": "{{URL}}/categories/63fec55669033497749b4a1b/sub-categories",
+							"raw": "https://e-shop-api-1ema.onrender.com/categories/63fec55669033497749b4a1b/sub-categories",
 							"host": [
-								"{{URL}}"
+								"https://e-shop-api-1ema.onrender.com"
 							],
 							"path": [
 								"categories",
@@ -354,9 +354,9 @@
 							}
 						},
 						"url": {
-							"raw": "{{URL}}/categories/63fec55669033497749b4a1b/sub-categories",
+							"raw": "https://e-shop-api-1ema.onrender.com/categories/63fec55669033497749b4a1b/sub-categories",
 							"host": [
-								"{{URL}}"
+								"https://e-shop-api-1ema.onrender.com"
 							],
 							"path": [
 								"categories",
@@ -403,9 +403,9 @@
 							]
 						},
 						"url": {
-							"raw": "{{URL}}/brands",
+							"raw": "https://e-shop-api-1ema.onrender.com/brands",
 							"host": [
-								"{{URL}}"
+								"https://e-shop-api-1ema.onrender.com"
 							],
 							"path": [
 								"brands"
@@ -420,9 +420,9 @@
 						"method": "GET",
 						"header": [],
 						"url": {
-							"raw": "{{URL}}/brands",
+							"raw": "https://e-shop-api-1ema.onrender.com/brands",
 							"host": [
-								"{{URL}}"
+								"https://e-shop-api-1ema.onrender.com"
 							],
 							"path": [
 								"brands"
@@ -437,9 +437,9 @@
 						"method": "GET",
 						"header": [],
 						"url": {
-							"raw": "{{URL}}/brands/63fec7f1c79a09bc167c716f",
+							"raw": "https://e-shop-api-1ema.onrender.com/brands/63fec7f1c79a09bc167c716f",
 							"host": [
-								"{{URL}}"
+								"https://e-shop-api-1ema.onrender.com"
 							],
 							"path": [
 								"brands",
@@ -474,9 +474,9 @@
 							}
 						},
 						"url": {
-							"raw": "{{URL}}/brands/63fec7f1c79a09bc167c716f",
+							"raw": "https://e-shop-api-1ema.onrender.com/brands/63fec7f1c79a09bc167c716f",
 							"host": [
-								"{{URL}}"
+								"https://e-shop-api-1ema.onrender.com"
 							],
 							"path": [
 								"brands",
@@ -492,9 +492,9 @@
 						"method": "DELETE",
 						"header": [],
 						"url": {
-							"raw": "{{URL}}/brands/63fec806c79a09bc167c717b",
+							"raw": "https://e-shop-api-1ema.onrender.com/brands/63fec806c79a09bc167c717b",
 							"host": [
-								"{{URL}}"
+								"https://e-shop-api-1ema.onrender.com"
 							],
 							"path": [
 								"brands",
@@ -570,9 +570,9 @@
 							]
 						},
 						"url": {
-							"raw": "{{URL}}/products",
+							"raw": "https://e-shop-api-1ema.onrender.com/products",
 							"host": [
-								"{{URL}}"
+								"https://e-shop-api-1ema.onrender.com"
 							],
 							"path": [
 								"products"
@@ -599,9 +599,9 @@
 							}
 						},
 						"url": {
-							"raw": "{{URL}}/products",
+							"raw": "https://e-shop-api-1ema.onrender.com/products",
 							"host": [
-								"{{URL}}"
+								"https://e-shop-api-1ema.onrender.com"
 							],
 							"path": [
 								"products"
@@ -616,9 +616,9 @@
 						"method": "GET",
 						"header": [],
 						"url": {
-							"raw": "{{URL}}/products/63fec97d14e938ee65ab5f95",
+							"raw": "https://e-shop-api-1ema.onrender.com/products/63fec97d14e938ee65ab5f95",
 							"host": [
-								"{{URL}}"
+								"https://e-shop-api-1ema.onrender.com"
 							],
 							"path": [
 								"products",
@@ -653,9 +653,9 @@
 							}
 						},
 						"url": {
-							"raw": "{{URL}}/products/63fec97d14e938ee65ab5f95",
+							"raw": "https://e-shop-api-1ema.onrender.com/products/63fec97d14e938ee65ab5f95",
 							"host": [
-								"{{URL}}"
+								"https://e-shop-api-1ema.onrender.com"
 							],
 							"path": [
 								"products",
@@ -681,9 +681,9 @@
 						"method": "DELETE",
 						"header": [],
 						"url": {
-							"raw": "{{URL}}/products/63fec99b14e938ee65ab5f9d",
+							"raw": "https://e-shop-api-1ema.onrender.com/products/63fec99b14e938ee65ab5f9d",
 							"host": [
-								"{{URL}}"
+								"https://e-shop-api-1ema.onrender.com"
 							],
 							"path": [
 								"products",
@@ -739,9 +739,9 @@
 							]
 						},
 						"url": {
-							"raw": "{{URL}}/users",
+							"raw": "https://e-shop-api-1ema.onrender.com/users",
 							"host": [
-								"{{URL}}"
+								"https://e-shop-api-1ema.onrender.com"
 							],
 							"path": [
 								"users"
@@ -766,9 +766,9 @@
 						"method": "GET",
 						"header": [],
 						"url": {
-							"raw": "{{URL}}/users",
+							"raw": "https://e-shop-api-1ema.onrender.com/users",
 							"host": [
-								"{{URL}}"
+								"https://e-shop-api-1ema.onrender.com"
 							],
 							"path": [
 								"users"
@@ -793,9 +793,9 @@
 						"method": "GET",
 						"header": [],
 						"url": {
-							"raw": "{{URL}}/users/63fec4f669033497749b4a11",
+							"raw": "https://e-shop-api-1ema.onrender.com/users/63fec4f669033497749b4a11",
 							"host": [
-								"{{URL}}"
+								"https://e-shop-api-1ema.onrender.com"
 							],
 							"path": [
 								"users",
@@ -830,9 +830,9 @@
 							}
 						},
 						"url": {
-							"raw": "{{URL}}/users/63fec4f669033497749b4a11",
+							"raw": "https://e-shop-api-1ema.onrender.com/users/63fec4f669033497749b4a11",
 							"host": [
-								"{{URL}}"
+								"https://e-shop-api-1ema.onrender.com"
 							],
 							"path": [
 								"users",
@@ -867,9 +867,9 @@
 							}
 						},
 						"url": {
-							"raw": "{{URL}}/users/changeUserPassword/63fec4f669033497749b4a11",
+							"raw": "https://e-shop-api-1ema.onrender.com/users/changeUserPassword/63fec4f669033497749b4a11",
 							"host": [
-								"{{URL}}"
+								"https://e-shop-api-1ema.onrender.com"
 							],
 							"path": [
 								"users",
@@ -896,9 +896,9 @@
 						"method": "DELETE",
 						"header": [],
 						"url": {
-							"raw": "{{URL}}/users/63fecb696ae8ff80d78e46cb",
+							"raw": "https://e-shop-api-1ema.onrender.com/users/63fecb696ae8ff80d78e46cb",
 							"host": [
-								"{{URL}}"
+								"https://e-shop-api-1ema.onrender.com"
 							],
 							"path": [
 								"users",
@@ -939,9 +939,9 @@
 							}
 						},
 						"url": {
-							"raw": "{{URL}}/auth/signup",
+							"raw": "https://e-shop-api-1ema.onrender.com/auth/signup",
 							"host": [
-								"{{URL}}"
+								"https://e-shop-api-1ema.onrender.com"
 							],
 							"path": [
 								"auth",
@@ -988,9 +988,9 @@
 							}
 						},
 						"url": {
-							"raw": "{{URL}}/auth/login",
+							"raw": "https://e-shop-api-1ema.onrender.com/auth/login",
 							"host": [
-								"{{URL}}"
+								"https://e-shop-api-1ema.onrender.com"
 							],
 							"path": [
 								"auth",
@@ -1037,9 +1037,9 @@
 							}
 						},
 						"url": {
-							"raw": "{{URL}}/auth/forgotPassword",
+							"raw": "https://e-shop-api-1ema.onrender.com/auth/forgotPassword",
 							"host": [
-								"{{URL}}"
+								"https://e-shop-api-1ema.onrender.com"
 							],
 							"path": [
 								"auth",
@@ -1086,9 +1086,9 @@
 							}
 						},
 						"url": {
-							"raw": "{{URL}}/auth/verifyResetCode",
+							"raw": "https://e-shop-api-1ema.onrender.com/auth/verifyResetCode",
 							"host": [
-								"{{URL}}"
+								"https://e-shop-api-1ema.onrender.com"
 							],
 							"path": [
 								"auth",
@@ -1135,9 +1135,9 @@
 							}
 						},
 						"url": {
-							"raw": "{{URL}}/auth/resetPassword",
+							"raw": "https://e-shop-api-1ema.onrender.com/auth/resetPassword",
 							"host": [
-								"{{URL}}"
+								"https://e-shop-api-1ema.onrender.com"
 							],
 							"path": [
 								"auth",
@@ -1168,9 +1168,9 @@
 						"method": "GET",
 						"header": [],
 						"url": {
-							"raw": "{{URL}}/users/getMe",
+							"raw": "https://e-shop-api-1ema.onrender.com/users/getMe",
 							"host": [
-								"{{URL}}"
+								"https://e-shop-api-1ema.onrender.com"
 							],
 							"path": [
 								"users",
@@ -1216,9 +1216,9 @@
 							}
 						},
 						"url": {
-							"raw": "{{URL}}/users/changeMyPassword",
+							"raw": "https://e-shop-api-1ema.onrender.com/users/changeMyPassword",
 							"host": [
-								"{{URL}}"
+								"https://e-shop-api-1ema.onrender.com"
 							],
 							"path": [
 								"users",
@@ -1253,9 +1253,9 @@
 							}
 						},
 						"url": {
-							"raw": "{{URL}}/users/updateMe",
+							"raw": "https://e-shop-api-1ema.onrender.com/users/updateMe",
 							"host": [
-								"{{URL}}"
+								"https://e-shop-api-1ema.onrender.com"
 							],
 							"path": [
 								"users",
@@ -1281,9 +1281,9 @@
 						"method": "DELETE",
 						"header": [],
 						"url": {
-							"raw": "{{URL}}/users/deleteMe",
+							"raw": "https://e-shop-api-1ema.onrender.com/users/deleteMe",
 							"host": [
-								"{{URL}}"
+								"https://e-shop-api-1ema.onrender.com"
 							],
 							"path": [
 								"users",
@@ -1323,9 +1323,9 @@
 							}
 						},
 						"url": {
-							"raw": "{{URL}}/reviews",
+							"raw": "https://e-shop-api-1ema.onrender.com/reviews",
 							"host": [
-								"{{URL}}"
+								"https://e-shop-api-1ema.onrender.com"
 							],
 							"path": [
 								"reviews"
@@ -1340,9 +1340,9 @@
 						"method": "GET",
 						"header": [],
 						"url": {
-							"raw": "{{URL}}/reviews",
+							"raw": "https://e-shop-api-1ema.onrender.com/reviews",
 							"host": [
-								"{{URL}}"
+								"https://e-shop-api-1ema.onrender.com"
 							],
 							"path": [
 								"reviews"
@@ -1369,9 +1369,9 @@
 							}
 						},
 						"url": {
-							"raw": "{{URL}}/reviews/63fecdab4829db9ae87e3905",
+							"raw": "https://e-shop-api-1ema.onrender.com/reviews/63fecdab4829db9ae87e3905",
 							"host": [
-								"{{URL}}"
+								"https://e-shop-api-1ema.onrender.com"
 							],
 							"path": [
 								"reviews",
@@ -1406,9 +1406,9 @@
 							}
 						},
 						"url": {
-							"raw": "{{URL}}/reviews/63fecdab4829db9ae87e3905",
+							"raw": "https://e-shop-api-1ema.onrender.com/reviews/63fecdab4829db9ae87e3905",
 							"host": [
-								"{{URL}}"
+								"https://e-shop-api-1ema.onrender.com"
 							],
 							"path": [
 								"reviews",
@@ -1434,9 +1434,9 @@
 						"method": "DELETE",
 						"header": [],
 						"url": {
-							"raw": "{{URL}}/reviews/63f0e75fc4ab20218a6b4151",
+							"raw": "https://e-shop-api-1ema.onrender.com/reviews/63f0e75fc4ab20218a6b4151",
 							"host": [
-								"{{URL}}"
+								"https://e-shop-api-1ema.onrender.com"
 							],
 							"path": [
 								"reviews",
@@ -1457,9 +1457,9 @@
 						"method": "GET",
 						"header": [],
 						"url": {
-							"raw": "{{URL}}/products/63fec97d14e938ee65ab5f95/reviews",
+							"raw": "https://e-shop-api-1ema.onrender.com/products/63fec97d14e938ee65ab5f95/reviews",
 							"host": [
-								"{{URL}}"
+								"https://e-shop-api-1ema.onrender.com"
 							],
 							"path": [
 								"products",
@@ -1495,9 +1495,9 @@
 							}
 						},
 						"url": {
-							"raw": "{{URL}}/products/63fec97d14e938ee65ab5f95/reviews",
+							"raw": "https://e-shop-api-1ema.onrender.com/products/63fec97d14e938ee65ab5f95/reviews",
 							"host": [
-								"{{URL}}"
+								"https://e-shop-api-1ema.onrender.com"
 							],
 							"path": [
 								"products",
@@ -1538,9 +1538,9 @@
 							}
 						},
 						"url": {
-							"raw": "{{URL}}/wishlist",
+							"raw": "https://e-shop-api-1ema.onrender.com/wishlist",
 							"host": [
-								"{{URL}}"
+								"https://e-shop-api-1ema.onrender.com"
 							],
 							"path": [
 								"wishlist"
@@ -1574,9 +1574,9 @@
 							}
 						},
 						"url": {
-							"raw": "{{URL}}/wishlist/63ede17a5a3d725bd5039233",
+							"raw": "https://e-shop-api-1ema.onrender.com/wishlist/63ede17a5a3d725bd5039233",
 							"host": [
-								"{{URL}}"
+								"https://e-shop-api-1ema.onrender.com"
 							],
 							"path": [
 								"wishlist",
@@ -1602,9 +1602,9 @@
 						"method": "GET",
 						"header": [],
 						"url": {
-							"raw": "{{URL}}/wishlist",
+							"raw": "https://e-shop-api-1ema.onrender.com/wishlist",
 							"host": [
-								"{{URL}}"
+								"https://e-shop-api-1ema.onrender.com"
 							],
 							"path": [
 								"wishlist"
@@ -1643,9 +1643,9 @@
 							}
 						},
 						"url": {
-							"raw": "{{URL}}/addresses",
+							"raw": "https://e-shop-api-1ema.onrender.com/addresses",
 							"host": [
-								"{{URL}}"
+								"https://e-shop-api-1ema.onrender.com"
 							],
 							"path": [
 								"addresses"
@@ -1679,9 +1679,9 @@
 							}
 						},
 						"url": {
-							"raw": "{{URL}}/addresses/63f1cc8c7987610ff12b58e1",
+							"raw": "https://e-shop-api-1ema.onrender.com/addresses/63f1cc8c7987610ff12b58e1",
 							"host": [
-								"{{URL}}"
+								"https://e-shop-api-1ema.onrender.com"
 							],
 							"path": [
 								"addresses",
@@ -1707,9 +1707,9 @@
 						"method": "GET",
 						"header": [],
 						"url": {
-							"raw": "{{URL}}/addresses",
+							"raw": "https://e-shop-api-1ema.onrender.com/addresses",
 							"host": [
-								"{{URL}}"
+								"https://e-shop-api-1ema.onrender.com"
 							],
 							"path": [
 								"addresses"
@@ -1748,9 +1748,9 @@
 							}
 						},
 						"url": {
-							"raw": "{{URL}}/coupons",
+							"raw": "https://e-shop-api-1ema.onrender.com/coupons",
 							"host": [
-								"{{URL}}"
+								"https://e-shop-api-1ema.onrender.com"
 							],
 							"path": [
 								"coupons"
@@ -1784,9 +1784,9 @@
 							}
 						},
 						"url": {
-							"raw": "{{URL}}/coupons/63f1d4f01f05d8e4528a6647",
+							"raw": "https://e-shop-api-1ema.onrender.com/coupons/63f1d4f01f05d8e4528a6647",
 							"host": [
-								"{{URL}}"
+								"https://e-shop-api-1ema.onrender.com"
 							],
 							"path": [
 								"coupons",
@@ -1824,9 +1824,9 @@
 							}
 						},
 						"url": {
-							"raw": "{{URL}}/coupons",
+							"raw": "https://e-shop-api-1ema.onrender.com/coupons",
 							"host": [
-								"{{URL}}"
+								"https://e-shop-api-1ema.onrender.com"
 							],
 							"path": [
 								"coupons"
@@ -1863,9 +1863,9 @@
 							}
 						},
 						"url": {
-							"raw": "{{URL}}/coupons/63f1d4f01f05d8e4528a6647",
+							"raw": "https://e-shop-api-1ema.onrender.com/coupons/63f1d4f01f05d8e4528a6647",
 							"host": [
-								"{{URL}}"
+								"https://e-shop-api-1ema.onrender.com"
 							],
 							"path": [
 								"coupons",
@@ -1891,9 +1891,9 @@
 						"method": "DELETE",
 						"header": [],
 						"url": {
-							"raw": "{{URL}}/coupons/63f1d4f01f05d8e4528a6647",
+							"raw": "https://e-shop-api-1ema.onrender.com/coupons/63f1d4f01f05d8e4528a6647",
 							"host": [
-								"{{URL}}"
+								"https://e-shop-api-1ema.onrender.com"
 							],
 							"path": [
 								"coupons",
@@ -1933,9 +1933,9 @@
 							}
 						},
 						"url": {
-							"raw": "{{URL}}/cart",
+							"raw": "https://e-shop-api-1ema.onrender.com/cart",
 							"host": [
-								"{{URL}}"
+								"https://e-shop-api-1ema.onrender.com"
 							],
 							"path": [
 								"cart"
@@ -1960,9 +1960,9 @@
 						"method": "GET",
 						"header": [],
 						"url": {
-							"raw": "{{URL}}/cart",
+							"raw": "https://e-shop-api-1ema.onrender.com/cart",
 							"host": [
-								"{{URL}}"
+								"https://e-shop-api-1ema.onrender.com"
 							],
 							"path": [
 								"cart"
@@ -1987,9 +1987,9 @@
 						"method": "DELETE",
 						"header": [],
 						"url": {
-							"raw": "{{URL}}/cart/63f2cb9c61e7731c3affb11a",
+							"raw": "https://e-shop-api-1ema.onrender.com/cart/63f2cb9c61e7731c3affb11a",
 							"host": [
-								"{{URL}}"
+								"https://e-shop-api-1ema.onrender.com"
 							],
 							"path": [
 								"cart",
@@ -2015,9 +2015,9 @@
 						"method": "DELETE",
 						"header": [],
 						"url": {
-							"raw": "{{URL}}/cart",
+							"raw": "https://e-shop-api-1ema.onrender.com/cart",
 							"host": [
-								"{{URL}}"
+								"https://e-shop-api-1ema.onrender.com"
 							],
 							"path": [
 								"cart"
@@ -2051,9 +2051,9 @@
 							}
 						},
 						"url": {
-							"raw": "{{URL}}/cart/63f2cff4c9fd7b8189c74921",
+							"raw": "https://e-shop-api-1ema.onrender.com/cart/63f2cff4c9fd7b8189c74921",
 							"host": [
-								"{{URL}}"
+								"https://e-shop-api-1ema.onrender.com"
 							],
 							"path": [
 								"cart",
@@ -2088,9 +2088,9 @@
 							}
 						},
 						"url": {
-							"raw": "{{URL}}/cart/applyCoupon",
+							"raw": "https://e-shop-api-1ema.onrender.com/cart/applyCoupon",
 							"host": [
-								"{{URL}}"
+								"https://e-shop-api-1ema.onrender.com"
 							],
 							"path": [
 								"cart",
@@ -2130,9 +2130,9 @@
 							}
 						},
 						"url": {
-							"raw": "{{URL}}/orders/63f2f4fc71cc5c6218e7c9f7",
+							"raw": "https://e-shop-api-1ema.onrender.com/orders/63f2f4fc71cc5c6218e7c9f7",
 							"host": [
-								"{{URL}}"
+								"https://e-shop-api-1ema.onrender.com"
 							],
 							"path": [
 								"orders",
@@ -2158,9 +2158,9 @@
 						"method": "GET",
 						"header": [],
 						"url": {
-							"raw": "{{URL}}/orders/63f2f68cfb63cb0bf71f2d44",
+							"raw": "https://e-shop-api-1ema.onrender.com/orders/63f2f68cfb63cb0bf71f2d44",
 							"host": [
-								"{{URL}}"
+								"https://e-shop-api-1ema.onrender.com"
 							],
 							"path": [
 								"orders",
@@ -2186,9 +2186,9 @@
 						"method": "GET",
 						"header": [],
 						"url": {
-							"raw": "{{URL}}/orders",
+							"raw": "https://e-shop-api-1ema.onrender.com/orders",
 							"host": [
-								"{{URL}}"
+								"https://e-shop-api-1ema.onrender.com"
 							],
 							"path": [
 								"orders"
@@ -2222,9 +2222,9 @@
 							}
 						},
 						"url": {
-							"raw": "{{URL}}/orders/63f2f68cfb63cb0bf71f2d44/pay",
+							"raw": "https://e-shop-api-1ema.onrender.com/orders/63f2f68cfb63cb0bf71f2d44/pay",
 							"host": [
-								"{{URL}}"
+								"https://e-shop-api-1ema.onrender.com"
 							],
 							"path": [
 								"orders",
@@ -2260,9 +2260,9 @@
 							}
 						},
 						"url": {
-							"raw": "{{URL}}/orders/63f2f68cfb63cb0bf71f2d44/deliver",
+							"raw": "https://e-shop-api-1ema.onrender.com/orders/63f2f68cfb63cb0bf71f2d44/deliver",
 							"host": [
-								"{{URL}}"
+								"https://e-shop-api-1ema.onrender.com"
 							],
 							"path": [
 								"orders",
@@ -2289,9 +2289,9 @@
 						"method": "GET",
 						"header": [],
 						"url": {
-							"raw": "{{URL}}/orders/checkout-session/63f2f4fc71cc5c6218e7c9f7",
+							"raw": "https://e-shop-api-1ema.onrender.com/orders/checkout-session/63f2f4fc71cc5c6218e7c9f7",
 							"host": [
-								"{{URL}}"
+								"https://e-shop-api-1ema.onrender.com"
 							],
 							"path": [
 								"orders",
