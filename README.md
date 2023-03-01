@@ -218,6 +218,11 @@ Live demo [E-Shop](https://e-shop-api-1ema.onrender.com)
 
    -  This webhook will run when stripe payment success paid
 
+## 12. Upload Image
+
+-  [multer](https://www.npmjs.com/package/multer)
+-  [sharp](https://www.npmjs.com/package/sharp)
+
 # Build With
 
 List of any major frameworks used to build the project.

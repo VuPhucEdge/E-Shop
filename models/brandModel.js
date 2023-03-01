@@ -24,6 +24,7 @@ const setImageURL = (doc) => {
       doc.image = imageUrl;
    }
 };
+
 // findOne, findAll and update
 brandSchema.post("init", (doc) => {
    setImageURL(doc);
