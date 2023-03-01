@@ -10,6 +10,7 @@ Live demo [E-Shop](https://e-shop-api-1ema.onrender.com)
 
 -  npm install
 -  create .env file and create content PORT, NODE_ENV, DB_URL, BASE_URL, JWT_SECRET_KEY, JWT_EXPIRE_TIME, EMAIL_HOST, EMAIL_PORT, EMAIL_USER, EMAIL_PASSWORD
+-  Install postman and import E-Shop.json file
 
 # Run Project
 
