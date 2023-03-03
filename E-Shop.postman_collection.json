@@ -17,7 +17,7 @@
 							"bearer": [
 								{
 									"key": "token",
-									"value": "https://e-shop-api-1ema.onrender.com",
+									"value": "https://e-shop-api-1ema.onrender.com/api/v1/",
 									"type": "string"
 								}
 							]
@@ -47,9 +47,9 @@
 							}
 						},
 						"url": {
-							"raw": "https://e-shop-api-1ema.onrender.com/categories",
+							"raw": "https://e-shop-api-1ema.onrender.com/api/v1//categories",
 							"host": [
-								"https://e-shop-api-1ema.onrender.com"
+								"https://e-shop-api-1ema.onrender.com/api/v1/"
 							],
 							"path": [
 								"categories"
@@ -64,9 +64,9 @@
 						"method": "GET",
 						"header": [],
 						"url": {
-							"raw": "https://e-shop-api-1ema.onrender.com/categories",
+							"raw": "https://e-shop-api-1ema.onrender.com/api/v1//categories",
 							"host": [
-								"https://e-shop-api-1ema.onrender.com"
+								"https://e-shop-api-1ema.onrender.com/api/v1/"
 							],
 							"path": [
 								"categories"
@@ -81,9 +81,9 @@
 						"method": "GET",
 						"header": [],
 						"url": {
-							"raw": "https://e-shop-api-1ema.onrender.com/categories/63fec55669033497749b4a1b",
+							"raw": "https://e-shop-api-1ema.onrender.com/api/v1//categories/63fec55669033497749b4a1b",
 							"host": [
-								"https://e-shop-api-1ema.onrender.com"
+								"https://e-shop-api-1ema.onrender.com/api/v1/"
 							],
 							"path": [
 								"categories",
@@ -101,7 +101,7 @@
 							"bearer": [
 								{
 									"key": "token",
-									"value": "https://e-shop-api-1ema.onrender.com",
+									"value": "https://e-shop-api-1ema.onrender.com/api/v1/",
 									"type": "string"
 								}
 							]
@@ -124,9 +124,9 @@
 							]
 						},
 						"url": {
-							"raw": "https://e-shop-api-1ema.onrender.com/categories/63fec55669033497749b4a1b",
+							"raw": "https://e-shop-api-1ema.onrender.com/api/v1//categories/63fec55669033497749b4a1b",
 							"host": [
-								"https://e-shop-api-1ema.onrender.com"
+								"https://e-shop-api-1ema.onrender.com/api/v1/"
 							],
 							"path": [
 								"categories",
@@ -144,7 +144,7 @@
 							"bearer": [
 								{
 									"key": "token",
-									"value": "https://e-shop-api-1ema.onrender.com",
+									"value": "https://e-shop-api-1ema.onrender.com/api/v1/",
 									"type": "string"
 								}
 							]
@@ -152,9 +152,9 @@
 						"method": "DELETE",
 						"header": [],
 						"url": {
-							"raw": "https://e-shop-api-1ema.onrender.com/categories/63fec56769033497749b4a27",
+							"raw": "https://e-shop-api-1ema.onrender.com/api/v1//categories/63fec56769033497749b4a27",
 							"host": [
-								"https://e-shop-api-1ema.onrender.com"
+								"https://e-shop-api-1ema.onrender.com/api/v1/"
 							],
 							"path": [
 								"categories",
@@ -177,7 +177,7 @@
 							"bearer": [
 								{
 									"key": "token",
-									"value": "https://e-shop-api-1ema.onrender.com",
+									"value": "https://e-shop-api-1ema.onrender.com/api/v1/",
 									"type": "string"
 								}
 							]
@@ -194,9 +194,9 @@
 							}
 						},
 						"url": {
-							"raw": "https://e-shop-api-1ema.onrender.com/sub-categories",
+							"raw": "https://e-shop-api-1ema.onrender.com/api/v1//sub-categories",
 							"host": [
-								"https://e-shop-api-1ema.onrender.com"
+								"https://e-shop-api-1ema.onrender.com/api/v1/"
 							],
 							"path": [
 								"sub-categories"
@@ -211,9 +211,9 @@
 						"method": "GET",
 						"header": [],
 						"url": {
-							"raw": "https://e-shop-api-1ema.onrender.com/sub-categories",
+							"raw": "https://e-shop-api-1ema.onrender.com/api/v1//sub-categories",
 							"host": [
-								"https://e-shop-api-1ema.onrender.com"
+								"https://e-shop-api-1ema.onrender.com/api/v1/"
 							],
 							"path": [
 								"sub-categories"
@@ -228,9 +228,9 @@
 						"method": "GET",
 						"header": [],
 						"url": {
-							"raw": "https://e-shop-api-1ema.onrender.com/sub-categories/63fec6d603ac503313ecda5a",
+							"raw": "https://e-shop-api-1ema.onrender.com/api/v1//sub-categories/63fec6d603ac503313ecda5a",
 							"host": [
-								"https://e-shop-api-1ema.onrender.com"
+								"https://e-shop-api-1ema.onrender.com/api/v1/"
 							],
 							"path": [
 								"sub-categories",
@@ -248,7 +248,7 @@
 							"bearer": [
 								{
 									"key": "token",
-									"value": "https://e-shop-api-1ema.onrender.com",
+									"value": "https://e-shop-api-1ema.onrender.com/api/v1/",
 									"type": "string"
 								}
 							]
@@ -265,9 +265,9 @@
 							}
 						},
 						"url": {
-							"raw": "https://e-shop-api-1ema.onrender.com/sub-categories/63fec6d603ac503313ecda5a",
+							"raw": "https://e-shop-api-1ema.onrender.com/api/v1//sub-categories/63fec6d603ac503313ecda5a",
 							"host": [
-								"https://e-shop-api-1ema.onrender.com"
+								"https://e-shop-api-1ema.onrender.com/api/v1/"
 							],
 							"path": [
 								"sub-categories",
@@ -285,7 +285,7 @@
 							"bearer": [
 								{
 									"key": "token",
-									"value": "https://e-shop-api-1ema.onrender.com",
+									"value": "https://e-shop-api-1ema.onrender.com/api/v1/",
 									"type": "string"
 								}
 							]
@@ -293,9 +293,9 @@
 						"method": "DELETE",
 						"header": [],
 						"url": {
-							"raw": "https://e-shop-api-1ema.onrender.com/sub-categories/63fec6e603ac503313ecda60",
+							"raw": "https://e-shop-api-1ema.onrender.com/api/v1//sub-categories/63fec6e603ac503313ecda60",
 							"host": [
-								"https://e-shop-api-1ema.onrender.com"
+								"https://e-shop-api-1ema.onrender.com/api/v1/"
 							],
 							"path": [
 								"sub-categories",
@@ -316,9 +316,9 @@
 						"method": "GET",
 						"header": [],
 						"url": {
-							"raw": "https://e-shop-api-1ema.onrender.com/categories/63fec55669033497749b4a1b/sub-categories",
+							"raw": "https://e-shop-api-1ema.onrender.com/api/v1//categories/63fec55669033497749b4a1b/sub-categories",
 							"host": [
-								"https://e-shop-api-1ema.onrender.com"
+								"https://e-shop-api-1ema.onrender.com/api/v1/"
 							],
 							"path": [
 								"categories",
@@ -337,7 +337,7 @@
 							"bearer": [
 								{
 									"key": "token",
-									"value": "https://e-shop-api-1ema.onrender.com",
+									"value": "https://e-shop-api-1ema.onrender.com/api/v1/",
 									"type": "string"
 								}
 							]
@@ -354,9 +354,9 @@
 							}
 						},
 						"url": {
-							"raw": "https://e-shop-api-1ema.onrender.com/categories/63fec55669033497749b4a1b/sub-categories",
+							"raw": "https://e-shop-api-1ema.onrender.com/api/v1//categories/63fec55669033497749b4a1b/sub-categories",
 							"host": [
-								"https://e-shop-api-1ema.onrender.com"
+								"https://e-shop-api-1ema.onrender.com/api/v1/"
 							],
 							"path": [
 								"categories",
@@ -380,7 +380,7 @@
 							"bearer": [
 								{
 									"key": "token",
-									"value": "https://e-shop-api-1ema.onrender.com",
+									"value": "https://e-shop-api-1ema.onrender.com/api/v1/",
 									"type": "string"
 								}
 							]
@@ -403,9 +403,9 @@
 							]
 						},
 						"url": {
-							"raw": "https://e-shop-api-1ema.onrender.com/brands",
+							"raw": "https://e-shop-api-1ema.onrender.com/api/v1//brands",
 							"host": [
-								"https://e-shop-api-1ema.onrender.com"
+								"https://e-shop-api-1ema.onrender.com/api/v1/"
 							],
 							"path": [
 								"brands"
@@ -420,9 +420,9 @@
 						"method": "GET",
 						"header": [],
 						"url": {
-							"raw": "https://e-shop-api-1ema.onrender.com/brands",
+							"raw": "https://e-shop-api-1ema.onrender.com/api/v1//brands",
 							"host": [
-								"https://e-shop-api-1ema.onrender.com"
+								"https://e-shop-api-1ema.onrender.com/api/v1/"
 							],
 							"path": [
 								"brands"
@@ -437,9 +437,9 @@
 						"method": "GET",
 						"header": [],
 						"url": {
-							"raw": "https://e-shop-api-1ema.onrender.com/brands/63fec7f1c79a09bc167c716f",
+							"raw": "https://e-shop-api-1ema.onrender.com/api/v1//brands/63fec7f1c79a09bc167c716f",
 							"host": [
-								"https://e-shop-api-1ema.onrender.com"
+								"https://e-shop-api-1ema.onrender.com/api/v1/"
 							],
 							"path": [
 								"brands",
@@ -457,7 +457,7 @@
 							"bearer": [
 								{
 									"key": "token",
-									"value": "https://e-shop-api-1ema.onrender.com",
+									"value": "https://e-shop-api-1ema.onrender.com/api/v1/",
 									"type": "string"
 								}
 							]
@@ -474,9 +474,9 @@
 							}
 						},
 						"url": {
-							"raw": "https://e-shop-api-1ema.onrender.com/brands/63fec7f1c79a09bc167c716f",
+							"raw": "https://e-shop-api-1ema.onrender.com/api/v1//brands/63fec7f1c79a09bc167c716f",
 							"host": [
-								"https://e-shop-api-1ema.onrender.com"
+								"https://e-shop-api-1ema.onrender.com/api/v1/"
 							],
 							"path": [
 								"brands",
@@ -492,9 +492,9 @@
 						"method": "DELETE",
 						"header": [],
 						"url": {
-							"raw": "https://e-shop-api-1ema.onrender.com/brands/63fec806c79a09bc167c717b",
+							"raw": "https://e-shop-api-1ema.onrender.com/api/v1//brands/63fec806c79a09bc167c717b",
 							"host": [
-								"https://e-shop-api-1ema.onrender.com"
+								"https://e-shop-api-1ema.onrender.com/api/v1/"
 							],
 							"path": [
 								"brands",
@@ -517,7 +517,7 @@
 							"bearer": [
 								{
 									"key": "token",
-									"value": "https://e-shop-api-1ema.onrender.com",
+									"value": "https://e-shop-api-1ema.onrender.com/api/v1/",
 									"type": "string"
 								}
 							]
@@ -570,9 +570,9 @@
 							]
 						},
 						"url": {
-							"raw": "https://e-shop-api-1ema.onrender.com/products",
+							"raw": "https://e-shop-api-1ema.onrender.com/api/v1//products",
 							"host": [
-								"https://e-shop-api-1ema.onrender.com"
+								"https://e-shop-api-1ema.onrender.com/api/v1/"
 							],
 							"path": [
 								"products"
@@ -599,9 +599,9 @@
 							}
 						},
 						"url": {
-							"raw": "https://e-shop-api-1ema.onrender.com/products",
+							"raw": "https://e-shop-api-1ema.onrender.com/api/v1//products",
 							"host": [
-								"https://e-shop-api-1ema.onrender.com"
+								"https://e-shop-api-1ema.onrender.com/api/v1/"
 							],
 							"path": [
 								"products"
@@ -616,9 +616,9 @@
 						"method": "GET",
 						"header": [],
 						"url": {
-							"raw": "https://e-shop-api-1ema.onrender.com/products/63fec97d14e938ee65ab5f95",
+							"raw": "https://e-shop-api-1ema.onrender.com/api/v1//products/63fec97d14e938ee65ab5f95",
 							"host": [
-								"https://e-shop-api-1ema.onrender.com"
+								"https://e-shop-api-1ema.onrender.com/api/v1/"
 							],
 							"path": [
 								"products",
@@ -636,7 +636,7 @@
 							"bearer": [
 								{
 									"key": "token",
-									"value": "https://e-shop-api-1ema.onrender.com",
+									"value": "https://e-shop-api-1ema.onrender.com/api/v1/",
 									"type": "string"
 								}
 							]
@@ -653,9 +653,9 @@
 							}
 						},
 						"url": {
-							"raw": "https://e-shop-api-1ema.onrender.com/products/63fec97d14e938ee65ab5f95",
+							"raw": "https://e-shop-api-1ema.onrender.com/api/v1//products/63fec97d14e938ee65ab5f95",
 							"host": [
-								"https://e-shop-api-1ema.onrender.com"
+								"https://e-shop-api-1ema.onrender.com/api/v1/"
 							],
 							"path": [
 								"products",
@@ -673,7 +673,7 @@
 							"bearer": [
 								{
 									"key": "token",
-									"value": "https://e-shop-api-1ema.onrender.com",
+									"value": "https://e-shop-api-1ema.onrender.com/api/v1/",
 									"type": "string"
 								}
 							]
@@ -681,9 +681,9 @@
 						"method": "DELETE",
 						"header": [],
 						"url": {
-							"raw": "https://e-shop-api-1ema.onrender.com/products/63fec99b14e938ee65ab5f9d",
+							"raw": "https://e-shop-api-1ema.onrender.com/api/v1//products/63fec99b14e938ee65ab5f9d",
 							"host": [
-								"https://e-shop-api-1ema.onrender.com"
+								"https://e-shop-api-1ema.onrender.com/api/v1/"
 							],
 							"path": [
 								"products",
@@ -706,7 +706,7 @@
 							"bearer": [
 								{
 									"key": "token",
-									"value": "https://e-shop-api-1ema.onrender.com",
+									"value": "https://e-shop-api-1ema.onrender.com/api/v1/",
 									"type": "string"
 								}
 							]
@@ -739,9 +739,9 @@
 							]
 						},
 						"url": {
-							"raw": "https://e-shop-api-1ema.onrender.com/users",
+							"raw": "https://e-shop-api-1ema.onrender.com/api/v1//users",
 							"host": [
-								"https://e-shop-api-1ema.onrender.com"
+								"https://e-shop-api-1ema.onrender.com/api/v1/"
 							],
 							"path": [
 								"users"
@@ -758,7 +758,7 @@
 							"bearer": [
 								{
 									"key": "token",
-									"value": "https://e-shop-api-1ema.onrender.com",
+									"value": "https://e-shop-api-1ema.onrender.com/api/v1/",
 									"type": "string"
 								}
 							]
@@ -766,9 +766,9 @@
 						"method": "GET",
 						"header": [],
 						"url": {
-							"raw": "https://e-shop-api-1ema.onrender.com/users",
+							"raw": "https://e-shop-api-1ema.onrender.com/api/v1//users",
 							"host": [
-								"https://e-shop-api-1ema.onrender.com"
+								"https://e-shop-api-1ema.onrender.com/api/v1/"
 							],
 							"path": [
 								"users"
@@ -785,7 +785,7 @@
 							"bearer": [
 								{
 									"key": "token",
-									"value": "https://e-shop-api-1ema.onrender.com",
+									"value": "https://e-shop-api-1ema.onrender.com/api/v1/",
 									"type": "string"
 								}
 							]
@@ -793,9 +793,9 @@
 						"method": "GET",
 						"header": [],
 						"url": {
-							"raw": "https://e-shop-api-1ema.onrender.com/users/63fec4f669033497749b4a11",
+							"raw": "https://e-shop-api-1ema.onrender.com/api/v1//users/63fec4f669033497749b4a11",
 							"host": [
-								"https://e-shop-api-1ema.onrender.com"
+								"https://e-shop-api-1ema.onrender.com/api/v1/"
 							],
 							"path": [
 								"users",
@@ -813,7 +813,7 @@
 							"bearer": [
 								{
 									"key": "token",
-									"value": "https://e-shop-api-1ema.onrender.com",
+									"value": "https://e-shop-api-1ema.onrender.com/api/v1/",
 									"type": "string"
 								}
 							]
@@ -830,9 +830,9 @@
 							}
 						},
 						"url": {
-							"raw": "https://e-shop-api-1ema.onrender.com/users/63fec4f669033497749b4a11",
+							"raw": "https://e-shop-api-1ema.onrender.com/api/v1//users/63fec4f669033497749b4a11",
 							"host": [
-								"https://e-shop-api-1ema.onrender.com"
+								"https://e-shop-api-1ema.onrender.com/api/v1/"
 							],
 							"path": [
 								"users",
@@ -850,7 +850,7 @@
 							"bearer": [
 								{
 									"key": "token",
-									"value": "https://e-shop-api-1ema.onrender.com",
+									"value": "https://e-shop-api-1ema.onrender.com/api/v1/",
 									"type": "string"
 								}
 							]
@@ -867,9 +867,9 @@
 							}
 						},
 						"url": {
-							"raw": "https://e-shop-api-1ema.onrender.com/users/changeUserPassword/63fec4f669033497749b4a11",
+							"raw": "https://e-shop-api-1ema.onrender.com/api/v1//users/changeUserPassword/63fec4f669033497749b4a11",
 							"host": [
-								"https://e-shop-api-1ema.onrender.com"
+								"https://e-shop-api-1ema.onrender.com/api/v1/"
 							],
 							"path": [
 								"users",
@@ -888,7 +888,7 @@
 							"bearer": [
 								{
 									"key": "token",
-									"value": "https://e-shop-api-1ema.onrender.com",
+									"value": "https://e-shop-api-1ema.onrender.com/api/v1/",
 									"type": "string"
 								}
 							]
@@ -896,9 +896,9 @@
 						"method": "DELETE",
 						"header": [],
 						"url": {
-							"raw": "https://e-shop-api-1ema.onrender.com/users/63fecb696ae8ff80d78e46cb",
+							"raw": "https://e-shop-api-1ema.onrender.com/api/v1//users/63fecb696ae8ff80d78e46cb",
 							"host": [
-								"https://e-shop-api-1ema.onrender.com"
+								"https://e-shop-api-1ema.onrender.com/api/v1/"
 							],
 							"path": [
 								"users",
@@ -939,9 +939,9 @@
 							}
 						},
 						"url": {
-							"raw": "https://e-shop-api-1ema.onrender.com/auth/signup",
+							"raw": "https://e-shop-api-1ema.onrender.com/api/v1//auth/signup",
 							"host": [
-								"https://e-shop-api-1ema.onrender.com"
+								"https://e-shop-api-1ema.onrender.com/api/v1/"
 							],
 							"path": [
 								"auth",
@@ -971,7 +971,7 @@
 							"bearer": [
 								{
 									"key": "token",
-									"value": "https://e-shop-api-1ema.onrender.com",
+									"value": "https://e-shop-api-1ema.onrender.com/api/v1/",
 									"type": "string"
 								}
 							]
@@ -988,9 +988,9 @@
 							}
 						},
 						"url": {
-							"raw": "https://e-shop-api-1ema.onrender.com/auth/login",
+							"raw": "https://e-shop-api-1ema.onrender.com/api/v1//auth/login",
 							"host": [
-								"https://e-shop-api-1ema.onrender.com"
+								"https://e-shop-api-1ema.onrender.com/api/v1/"
 							],
 							"path": [
 								"auth",
@@ -1020,7 +1020,7 @@
 							"bearer": [
 								{
 									"key": "token",
-									"value": "https://e-shop-api-1ema.onrender.com",
+									"value": "https://e-shop-api-1ema.onrender.com/api/v1/",
 									"type": "string"
 								}
 							]
@@ -1037,9 +1037,9 @@
 							}
 						},
 						"url": {
-							"raw": "https://e-shop-api-1ema.onrender.com/auth/forgotPassword",
+							"raw": "https://e-shop-api-1ema.onrender.com/api/v1//auth/forgotPassword",
 							"host": [
-								"https://e-shop-api-1ema.onrender.com"
+								"https://e-shop-api-1ema.onrender.com/api/v1/"
 							],
 							"path": [
 								"auth",
@@ -1069,7 +1069,7 @@
 							"bearer": [
 								{
 									"key": "token",
-									"value": "https://e-shop-api-1ema.onrender.com",
+									"value": "https://e-shop-api-1ema.onrender.com/api/v1/",
 									"type": "string"
 								}
 							]
@@ -1086,9 +1086,9 @@
 							}
 						},
 						"url": {
-							"raw": "https://e-shop-api-1ema.onrender.com/auth/verifyResetCode",
+							"raw": "https://e-shop-api-1ema.onrender.com/api/v1//auth/verifyResetCode",
 							"host": [
-								"https://e-shop-api-1ema.onrender.com"
+								"https://e-shop-api-1ema.onrender.com/api/v1/"
 							],
 							"path": [
 								"auth",
@@ -1118,7 +1118,7 @@
 							"bearer": [
 								{
 									"key": "token",
-									"value": "https://e-shop-api-1ema.onrender.com",
+									"value": "https://e-shop-api-1ema.onrender.com/api/v1/",
 									"type": "string"
 								}
 							]
@@ -1135,9 +1135,9 @@
 							}
 						},
 						"url": {
-							"raw": "https://e-shop-api-1ema.onrender.com/auth/resetPassword",
+							"raw": "https://e-shop-api-1ema.onrender.com/api/v1//auth/resetPassword",
 							"host": [
-								"https://e-shop-api-1ema.onrender.com"
+								"https://e-shop-api-1ema.onrender.com/api/v1/"
 							],
 							"path": [
 								"auth",
@@ -1160,7 +1160,7 @@
 							"bearer": [
 								{
 									"key": "token",
-									"value": "https://e-shop-api-1ema.onrender.com",
+									"value": "https://e-shop-api-1ema.onrender.com/api/v1/",
 									"type": "string"
 								}
 							]
@@ -1168,9 +1168,9 @@
 						"method": "GET",
 						"header": [],
 						"url": {
-							"raw": "https://e-shop-api-1ema.onrender.com/users/getMe",
+							"raw": "https://e-shop-api-1ema.onrender.com/api/v1//users/getMe",
 							"host": [
-								"https://e-shop-api-1ema.onrender.com"
+								"https://e-shop-api-1ema.onrender.com/api/v1/"
 							],
 							"path": [
 								"users",
@@ -1199,7 +1199,7 @@
 							"bearer": [
 								{
 									"key": "token",
-									"value": "https://e-shop-api-1ema.onrender.com",
+									"value": "https://e-shop-api-1ema.onrender.com/api/v1/",
 									"type": "string"
 								}
 							]
@@ -1216,9 +1216,9 @@
 							}
 						},
 						"url": {
-							"raw": "https://e-shop-api-1ema.onrender.com/users/changeMyPassword",
+							"raw": "https://e-shop-api-1ema.onrender.com/api/v1//users/changeMyPassword",
 							"host": [
-								"https://e-shop-api-1ema.onrender.com"
+								"https://e-shop-api-1ema.onrender.com/api/v1/"
 							],
 							"path": [
 								"users",
@@ -1236,7 +1236,7 @@
 							"bearer": [
 								{
 									"key": "token",
-									"value": "https://e-shop-api-1ema.onrender.com",
+									"value": "https://e-shop-api-1ema.onrender.com/api/v1/",
 									"type": "string"
 								}
 							]
@@ -1253,9 +1253,9 @@
 							}
 						},
 						"url": {
-							"raw": "https://e-shop-api-1ema.onrender.com/users/updateMe",
+							"raw": "https://e-shop-api-1ema.onrender.com/api/v1//users/updateMe",
 							"host": [
-								"https://e-shop-api-1ema.onrender.com"
+								"https://e-shop-api-1ema.onrender.com/api/v1/"
 							],
 							"path": [
 								"users",
@@ -1273,7 +1273,7 @@
 							"bearer": [
 								{
 									"key": "token",
-									"value": "https://e-shop-api-1ema.onrender.com",
+									"value": "https://e-shop-api-1ema.onrender.com/api/v1/",
 									"type": "string"
 								}
 							]
@@ -1281,9 +1281,9 @@
 						"method": "DELETE",
 						"header": [],
 						"url": {
-							"raw": "https://e-shop-api-1ema.onrender.com/users/deleteMe",
+							"raw": "https://e-shop-api-1ema.onrender.com/api/v1//users/deleteMe",
 							"host": [
-								"https://e-shop-api-1ema.onrender.com"
+								"https://e-shop-api-1ema.onrender.com/api/v1/"
 							],
 							"path": [
 								"users",
@@ -1306,7 +1306,7 @@
 							"bearer": [
 								{
 									"key": "token",
-									"value": "https://e-shop-api-1ema.onrender.com",
+									"value": "https://e-shop-api-1ema.onrender.com/api/v1/",
 									"type": "string"
 								}
 							]
@@ -1323,9 +1323,9 @@
 							}
 						},
 						"url": {
-							"raw": "https://e-shop-api-1ema.onrender.com/reviews",
+							"raw": "https://e-shop-api-1ema.onrender.com/api/v1//reviews",
 							"host": [
-								"https://e-shop-api-1ema.onrender.com"
+								"https://e-shop-api-1ema.onrender.com/api/v1/"
 							],
 							"path": [
 								"reviews"
@@ -1340,9 +1340,9 @@
 						"method": "GET",
 						"header": [],
 						"url": {
-							"raw": "https://e-shop-api-1ema.onrender.com/reviews",
+							"raw": "https://e-shop-api-1ema.onrender.com/api/v1//reviews",
 							"host": [
-								"https://e-shop-api-1ema.onrender.com"
+								"https://e-shop-api-1ema.onrender.com/api/v1/"
 							],
 							"path": [
 								"reviews"
@@ -1369,9 +1369,9 @@
 							}
 						},
 						"url": {
-							"raw": "https://e-shop-api-1ema.onrender.com/reviews/63fecdab4829db9ae87e3905",
+							"raw": "https://e-shop-api-1ema.onrender.com/api/v1//reviews/63fecdab4829db9ae87e3905",
 							"host": [
-								"https://e-shop-api-1ema.onrender.com"
+								"https://e-shop-api-1ema.onrender.com/api/v1/"
 							],
 							"path": [
 								"reviews",
@@ -1389,7 +1389,7 @@
 							"bearer": [
 								{
 									"key": "token",
-									"value": "https://e-shop-api-1ema.onrender.com",
+									"value": "https://e-shop-api-1ema.onrender.com/api/v1/",
 									"type": "string"
 								}
 							]
@@ -1406,9 +1406,9 @@
 							}
 						},
 						"url": {
-							"raw": "https://e-shop-api-1ema.onrender.com/reviews/63fecdab4829db9ae87e3905",
+							"raw": "https://e-shop-api-1ema.onrender.com/api/v1//reviews/63fecdab4829db9ae87e3905",
 							"host": [
-								"https://e-shop-api-1ema.onrender.com"
+								"https://e-shop-api-1ema.onrender.com/api/v1/"
 							],
 							"path": [
 								"reviews",
@@ -1426,7 +1426,7 @@
 							"bearer": [
 								{
 									"key": "token",
-									"value": "https://e-shop-api-1ema.onrender.com",
+									"value": "https://e-shop-api-1ema.onrender.com/api/v1/",
 									"type": "string"
 								}
 							]
@@ -1434,9 +1434,9 @@
 						"method": "DELETE",
 						"header": [],
 						"url": {
-							"raw": "https://e-shop-api-1ema.onrender.com/reviews/63f0e75fc4ab20218a6b4151",
+							"raw": "https://e-shop-api-1ema.onrender.com/api/v1//reviews/63f0e75fc4ab20218a6b4151",
 							"host": [
-								"https://e-shop-api-1ema.onrender.com"
+								"https://e-shop-api-1ema.onrender.com/api/v1/"
 							],
 							"path": [
 								"reviews",
@@ -1457,9 +1457,9 @@
 						"method": "GET",
 						"header": [],
 						"url": {
-							"raw": "https://e-shop-api-1ema.onrender.com/products/63fec97d14e938ee65ab5f95/reviews",
+							"raw": "https://e-shop-api-1ema.onrender.com/api/v1//products/63fec97d14e938ee65ab5f95/reviews",
 							"host": [
-								"https://e-shop-api-1ema.onrender.com"
+								"https://e-shop-api-1ema.onrender.com/api/v1/"
 							],
 							"path": [
 								"products",
@@ -1478,7 +1478,7 @@
 							"bearer": [
 								{
 									"key": "token",
-									"value": "https://e-shop-api-1ema.onrender.com",
+									"value": "https://e-shop-api-1ema.onrender.com/api/v1/",
 									"type": "string"
 								}
 							]
@@ -1495,9 +1495,9 @@
 							}
 						},
 						"url": {
-							"raw": "https://e-shop-api-1ema.onrender.com/products/63fec97d14e938ee65ab5f95/reviews",
+							"raw": "https://e-shop-api-1ema.onrender.com/api/v1//products/63fec97d14e938ee65ab5f95/reviews",
 							"host": [
-								"https://e-shop-api-1ema.onrender.com"
+								"https://e-shop-api-1ema.onrender.com/api/v1/"
 							],
 							"path": [
 								"products",
@@ -1521,7 +1521,7 @@
 							"bearer": [
 								{
 									"key": "token",
-									"value": "https://e-shop-api-1ema.onrender.com",
+									"value": "https://e-shop-api-1ema.onrender.com/api/v1/",
 									"type": "string"
 								}
 							]
@@ -1538,9 +1538,9 @@
 							}
 						},
 						"url": {
-							"raw": "https://e-shop-api-1ema.onrender.com/wishlist",
+							"raw": "https://e-shop-api-1ema.onrender.com/api/v1//wishlist",
 							"host": [
-								"https://e-shop-api-1ema.onrender.com"
+								"https://e-shop-api-1ema.onrender.com/api/v1/"
 							],
 							"path": [
 								"wishlist"
@@ -1557,7 +1557,7 @@
 							"bearer": [
 								{
 									"key": "token",
-									"value": "https://e-shop-api-1ema.onrender.com",
+									"value": "https://e-shop-api-1ema.onrender.com/api/v1/",
 									"type": "string"
 								}
 							]
@@ -1574,9 +1574,9 @@
 							}
 						},
 						"url": {
-							"raw": "https://e-shop-api-1ema.onrender.com/wishlist/63ede17a5a3d725bd5039233",
+							"raw": "https://e-shop-api-1ema.onrender.com/api/v1//wishlist/63ede17a5a3d725bd5039233",
 							"host": [
-								"https://e-shop-api-1ema.onrender.com"
+								"https://e-shop-api-1ema.onrender.com/api/v1/"
 							],
 							"path": [
 								"wishlist",
@@ -1594,7 +1594,7 @@
 							"bearer": [
 								{
 									"key": "token",
-									"value": "https://e-shop-api-1ema.onrender.com",
+									"value": "https://e-shop-api-1ema.onrender.com/api/v1/",
 									"type": "string"
 								}
 							]
@@ -1602,9 +1602,9 @@
 						"method": "GET",
 						"header": [],
 						"url": {
-							"raw": "https://e-shop-api-1ema.onrender.com/wishlist",
+							"raw": "https://e-shop-api-1ema.onrender.com/api/v1//wishlist",
 							"host": [
-								"https://e-shop-api-1ema.onrender.com"
+								"https://e-shop-api-1ema.onrender.com/api/v1/"
 							],
 							"path": [
 								"wishlist"
@@ -1626,7 +1626,7 @@
 							"bearer": [
 								{
 									"key": "token",
-									"value": "https://e-shop-api-1ema.onrender.com",
+									"value": "https://e-shop-api-1ema.onrender.com/api/v1/",
 									"type": "string"
 								}
 							]
@@ -1643,9 +1643,9 @@
 							}
 						},
 						"url": {
-							"raw": "https://e-shop-api-1ema.onrender.com/addresses",
+							"raw": "https://e-shop-api-1ema.onrender.com/api/v1//addresses",
 							"host": [
-								"https://e-shop-api-1ema.onrender.com"
+								"https://e-shop-api-1ema.onrender.com/api/v1/"
 							],
 							"path": [
 								"addresses"
@@ -1662,7 +1662,7 @@
 							"bearer": [
 								{
 									"key": "token",
-									"value": "https://e-shop-api-1ema.onrender.com",
+									"value": "https://e-shop-api-1ema.onrender.com/api/v1/",
 									"type": "string"
 								}
 							]
@@ -1679,9 +1679,9 @@
 							}
 						},
 						"url": {
-							"raw": "https://e-shop-api-1ema.onrender.com/addresses/63f1cc8c7987610ff12b58e1",
+							"raw": "https://e-shop-api-1ema.onrender.com/api/v1//addresses/63f1cc8c7987610ff12b58e1",
 							"host": [
-								"https://e-shop-api-1ema.onrender.com"
+								"https://e-shop-api-1ema.onrender.com/api/v1/"
 							],
 							"path": [
 								"addresses",
@@ -1699,7 +1699,7 @@
 							"bearer": [
 								{
 									"key": "token",
-									"value": "https://e-shop-api-1ema.onrender.com",
+									"value": "https://e-shop-api-1ema.onrender.com/api/v1/",
 									"type": "string"
 								}
 							]
@@ -1707,9 +1707,9 @@
 						"method": "GET",
 						"header": [],
 						"url": {
-							"raw": "https://e-shop-api-1ema.onrender.com/addresses",
+							"raw": "https://e-shop-api-1ema.onrender.com/api/v1//addresses",
 							"host": [
-								"https://e-shop-api-1ema.onrender.com"
+								"https://e-shop-api-1ema.onrender.com/api/v1/"
 							],
 							"path": [
 								"addresses"
@@ -1731,7 +1731,7 @@
 							"bearer": [
 								{
 									"key": "token",
-									"value": "https://e-shop-api-1ema.onrender.com",
+									"value": "https://e-shop-api-1ema.onrender.com/api/v1/",
 									"type": "string"
 								}
 							]
@@ -1748,9 +1748,9 @@
 							}
 						},
 						"url": {
-							"raw": "https://e-shop-api-1ema.onrender.com/coupons",
+							"raw": "https://e-shop-api-1ema.onrender.com/api/v1//coupons",
 							"host": [
-								"https://e-shop-api-1ema.onrender.com"
+								"https://e-shop-api-1ema.onrender.com/api/v1/"
 							],
 							"path": [
 								"coupons"
@@ -1767,7 +1767,7 @@
 							"bearer": [
 								{
 									"key": "token",
-									"value": "https://e-shop-api-1ema.onrender.com",
+									"value": "https://e-shop-api-1ema.onrender.com/api/v1/",
 									"type": "string"
 								}
 							]
@@ -1784,9 +1784,9 @@
 							}
 						},
 						"url": {
-							"raw": "https://e-shop-api-1ema.onrender.com/coupons/63f1d4f01f05d8e4528a6647",
+							"raw": "https://e-shop-api-1ema.onrender.com/api/v1//coupons/63f1d4f01f05d8e4528a6647",
 							"host": [
-								"https://e-shop-api-1ema.onrender.com"
+								"https://e-shop-api-1ema.onrender.com/api/v1/"
 							],
 							"path": [
 								"coupons",
@@ -1807,7 +1807,7 @@
 							"bearer": [
 								{
 									"key": "token",
-									"value": "https://e-shop-api-1ema.onrender.com",
+									"value": "https://e-shop-api-1ema.onrender.com/api/v1/",
 									"type": "string"
 								}
 							]
@@ -1824,9 +1824,9 @@
 							}
 						},
 						"url": {
-							"raw": "https://e-shop-api-1ema.onrender.com/coupons",
+							"raw": "https://e-shop-api-1ema.onrender.com/api/v1//coupons",
 							"host": [
-								"https://e-shop-api-1ema.onrender.com"
+								"https://e-shop-api-1ema.onrender.com/api/v1/"
 							],
 							"path": [
 								"coupons"
@@ -1846,7 +1846,7 @@
 							"bearer": [
 								{
 									"key": "token",
-									"value": "https://e-shop-api-1ema.onrender.com",
+									"value": "https://e-shop-api-1ema.onrender.com/api/v1/",
 									"type": "string"
 								}
 							]
@@ -1863,9 +1863,9 @@
 							}
 						},
 						"url": {
-							"raw": "https://e-shop-api-1ema.onrender.com/coupons/63f1d4f01f05d8e4528a6647",
+							"raw": "https://e-shop-api-1ema.onrender.com/api/v1//coupons/63f1d4f01f05d8e4528a6647",
 							"host": [
-								"https://e-shop-api-1ema.onrender.com"
+								"https://e-shop-api-1ema.onrender.com/api/v1/"
 							],
 							"path": [
 								"coupons",
@@ -1883,7 +1883,7 @@
 							"bearer": [
 								{
 									"key": "token",
-									"value": "https://e-shop-api-1ema.onrender.com",
+									"value": "https://e-shop-api-1ema.onrender.com/api/v1/",
 									"type": "string"
 								}
 							]
@@ -1891,9 +1891,9 @@
 						"method": "DELETE",
 						"header": [],
 						"url": {
-							"raw": "https://e-shop-api-1ema.onrender.com/coupons/63f1d4f01f05d8e4528a6647",
+							"raw": "https://e-shop-api-1ema.onrender.com/api/v1//coupons/63f1d4f01f05d8e4528a6647",
 							"host": [
-								"https://e-shop-api-1ema.onrender.com"
+								"https://e-shop-api-1ema.onrender.com/api/v1/"
 							],
 							"path": [
 								"coupons",
@@ -1916,7 +1916,7 @@
 							"bearer": [
 								{
 									"key": "token",
-									"value": "https://e-shop-api-1ema.onrender.com",
+									"value": "https://e-shop-api-1ema.onrender.com/api/v1/",
 									"type": "string"
 								}
 							]
@@ -1933,9 +1933,9 @@
 							}
 						},
 						"url": {
-							"raw": "https://e-shop-api-1ema.onrender.com/cart",
+							"raw": "https://e-shop-api-1ema.onrender.com/api/v1//cart",
 							"host": [
-								"https://e-shop-api-1ema.onrender.com"
+								"https://e-shop-api-1ema.onrender.com/api/v1/"
 							],
 							"path": [
 								"cart"
@@ -1952,7 +1952,7 @@
 							"bearer": [
 								{
 									"key": "token",
-									"value": "https://e-shop-api-1ema.onrender.com",
+									"value": "https://e-shop-api-1ema.onrender.com/api/v1/",
 									"type": "string"
 								}
 							]
@@ -1960,9 +1960,9 @@
 						"method": "GET",
 						"header": [],
 						"url": {
-							"raw": "https://e-shop-api-1ema.onrender.com/cart",
+							"raw": "https://e-shop-api-1ema.onrender.com/api/v1//cart",
 							"host": [
-								"https://e-shop-api-1ema.onrender.com"
+								"https://e-shop-api-1ema.onrender.com/api/v1/"
 							],
 							"path": [
 								"cart"
@@ -1979,7 +1979,7 @@
 							"bearer": [
 								{
 									"key": "token",
-									"value": "https://e-shop-api-1ema.onrender.com",
+									"value": "https://e-shop-api-1ema.onrender.com/api/v1/",
 									"type": "string"
 								}
 							]
@@ -1987,9 +1987,9 @@
 						"method": "DELETE",
 						"header": [],
 						"url": {
-							"raw": "https://e-shop-api-1ema.onrender.com/cart/63f2cb9c61e7731c3affb11a",
+							"raw": "https://e-shop-api-1ema.onrender.com/api/v1//cart/63f2cb9c61e7731c3affb11a",
 							"host": [
-								"https://e-shop-api-1ema.onrender.com"
+								"https://e-shop-api-1ema.onrender.com/api/v1/"
 							],
 							"path": [
 								"cart",
@@ -2007,7 +2007,7 @@
 							"bearer": [
 								{
 									"key": "token",
-									"value": "https://e-shop-api-1ema.onrender.com",
+									"value": "https://e-shop-api-1ema.onrender.com/api/v1/",
 									"type": "string"
 								}
 							]
@@ -2015,9 +2015,9 @@
 						"method": "DELETE",
 						"header": [],
 						"url": {
-							"raw": "https://e-shop-api-1ema.onrender.com/cart",
+							"raw": "https://e-shop-api-1ema.onrender.com/api/v1//cart",
 							"host": [
-								"https://e-shop-api-1ema.onrender.com"
+								"https://e-shop-api-1ema.onrender.com/api/v1/"
 							],
 							"path": [
 								"cart"
@@ -2034,7 +2034,7 @@
 							"bearer": [
 								{
 									"key": "token",
-									"value": "https://e-shop-api-1ema.onrender.com",
+									"value": "https://e-shop-api-1ema.onrender.com/api/v1/",
 									"type": "string"
 								}
 							]
@@ -2051,9 +2051,9 @@
 							}
 						},
 						"url": {
-							"raw": "https://e-shop-api-1ema.onrender.com/cart/63f2cff4c9fd7b8189c74921",
+							"raw": "https://e-shop-api-1ema.onrender.com/api/v1//cart/63f2cff4c9fd7b8189c74921",
 							"host": [
-								"https://e-shop-api-1ema.onrender.com"
+								"https://e-shop-api-1ema.onrender.com/api/v1/"
 							],
 							"path": [
 								"cart",
@@ -2071,7 +2071,7 @@
 							"bearer": [
 								{
 									"key": "token",
-									"value": "https://e-shop-api-1ema.onrender.com",
+									"value": "https://e-shop-api-1ema.onrender.com/api/v1/",
 									"type": "string"
 								}
 							]
@@ -2088,9 +2088,9 @@
 							}
 						},
 						"url": {
-							"raw": "https://e-shop-api-1ema.onrender.com/cart/applyCoupon",
+							"raw": "https://e-shop-api-1ema.onrender.com/api/v1//cart/applyCoupon",
 							"host": [
-								"https://e-shop-api-1ema.onrender.com"
+								"https://e-shop-api-1ema.onrender.com/api/v1/"
 							],
 							"path": [
 								"cart",
@@ -2113,7 +2113,7 @@
 							"bearer": [
 								{
 									"key": "token",
-									"value": "https://e-shop-api-1ema.onrender.com",
+									"value": "https://e-shop-api-1ema.onrender.com/api/v1/",
 									"type": "string"
 								}
 							]
@@ -2130,9 +2130,9 @@
 							}
 						},
 						"url": {
-							"raw": "https://e-shop-api-1ema.onrender.com/orders/63f2f4fc71cc5c6218e7c9f7",
+							"raw": "https://e-shop-api-1ema.onrender.com/api/v1//orders/63f2f4fc71cc5c6218e7c9f7",
 							"host": [
-								"https://e-shop-api-1ema.onrender.com"
+								"https://e-shop-api-1ema.onrender.com/api/v1/"
 							],
 							"path": [
 								"orders",
@@ -2150,7 +2150,7 @@
 							"bearer": [
 								{
 									"key": "token",
-									"value": "https://e-shop-api-1ema.onrender.com",
+									"value": "https://e-shop-api-1ema.onrender.com/api/v1/",
 									"type": "string"
 								}
 							]
@@ -2158,9 +2158,9 @@
 						"method": "GET",
 						"header": [],
 						"url": {
-							"raw": "https://e-shop-api-1ema.onrender.com/orders/63f2f68cfb63cb0bf71f2d44",
+							"raw": "https://e-shop-api-1ema.onrender.com/api/v1//orders/63f2f68cfb63cb0bf71f2d44",
 							"host": [
-								"https://e-shop-api-1ema.onrender.com"
+								"https://e-shop-api-1ema.onrender.com/api/v1/"
 							],
 							"path": [
 								"orders",
@@ -2178,7 +2178,7 @@
 							"bearer": [
 								{
 									"key": "token",
-									"value": "https://e-shop-api-1ema.onrender.com",
+									"value": "https://e-shop-api-1ema.onrender.com/api/v1/",
 									"type": "string"
 								}
 							]
@@ -2186,9 +2186,9 @@
 						"method": "GET",
 						"header": [],
 						"url": {
-							"raw": "https://e-shop-api-1ema.onrender.com/orders",
+							"raw": "https://e-shop-api-1ema.onrender.com/api/v1//orders",
 							"host": [
-								"https://e-shop-api-1ema.onrender.com"
+								"https://e-shop-api-1ema.onrender.com/api/v1/"
 							],
 							"path": [
 								"orders"
@@ -2205,7 +2205,7 @@
 							"bearer": [
 								{
 									"key": "token",
-									"value": "https://e-shop-api-1ema.onrender.com",
+									"value": "https://e-shop-api-1ema.onrender.com/api/v1/",
 									"type": "string"
 								}
 							]
@@ -2222,9 +2222,9 @@
 							}
 						},
 						"url": {
-							"raw": "https://e-shop-api-1ema.onrender.com/orders/63f2f68cfb63cb0bf71f2d44/pay",
+							"raw": "https://e-shop-api-1ema.onrender.com/api/v1//orders/63f2f68cfb63cb0bf71f2d44/pay",
 							"host": [
-								"https://e-shop-api-1ema.onrender.com"
+								"https://e-shop-api-1ema.onrender.com/api/v1/"
 							],
 							"path": [
 								"orders",
@@ -2243,7 +2243,7 @@
 							"bearer": [
 								{
 									"key": "token",
-									"value": "https://e-shop-api-1ema.onrender.com",
+									"value": "https://e-shop-api-1ema.onrender.com/api/v1/",
 									"type": "string"
 								}
 							]
@@ -2260,9 +2260,9 @@
 							}
 						},
 						"url": {
-							"raw": "https://e-shop-api-1ema.onrender.com/orders/63f2f68cfb63cb0bf71f2d44/deliver",
+							"raw": "https://e-shop-api-1ema.onrender.com/api/v1//orders/63f2f68cfb63cb0bf71f2d44/deliver",
 							"host": [
-								"https://e-shop-api-1ema.onrender.com"
+								"https://e-shop-api-1ema.onrender.com/api/v1/"
 							],
 							"path": [
 								"orders",
@@ -2281,7 +2281,7 @@
 							"bearer": [
 								{
 									"key": "token",
-									"value": "https://e-shop-api-1ema.onrender.com",
+									"value": "https://e-shop-api-1ema.onrender.com/api/v1/",
 									"type": "string"
 								}
 							]
@@ -2289,9 +2289,9 @@
 						"method": "GET",
 						"header": [],
 						"url": {
-							"raw": "https://e-shop-api-1ema.onrender.com/orders/checkout-session/63f2f4fc71cc5c6218e7c9f7",
+							"raw": "https://e-shop-api-1ema.onrender.com/api/v1//orders/checkout-session/63f2f4fc71cc5c6218e7c9f7",
 							"host": [
-								"https://e-shop-api-1ema.onrender.com"
+								"https://e-shop-api-1ema.onrender.com/api/v1/"
 							],
 							"path": [
 								"orders",
